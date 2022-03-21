@@ -42,9 +42,9 @@ https://www.cdc.gov/diabetes/data/index.html
 
 National records of diabeties:
 
-https://www.healthdata.org/us-health/data-download
+https://gis.cdc.gov/grasp/diabetes/diabetesatlas.html#
 
-
+Dataset for prediction analysis:
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
 Context
