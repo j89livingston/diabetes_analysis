@@ -1,6 +1,6 @@
-<center> <h1> Diabetes Analysis </h1></center>
 <p align="center">
-<img src= "../diabetes_analysis/images/diabetes-stats-report-724px.png" width=200% height=50%>
+<h1> Diabetes Analysis </h1>
+<img src= "/images/diabetes-stats-report-724px.png" width=80% height=75%>
 </p>
 
 <h2><u>Diabetes Overview</u>: </h2>
