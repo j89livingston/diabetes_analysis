@@ -1,7 +1,6 @@
-<p align="center">
-<h1> Diabetes Analysis </h1>
-<img src= "/images/diabetes-stats-report-724px.png" width=80% height=75%>
-</p>
+<h1> Diabetes In the United States - Am I at Risk? </h1>
+
+<img src= "./images/diabetes-stats-report-724px.png" width=80% height=75%>
 
 <h2><u>Diabetes Overview</u>: </h2>
 
@@ -32,7 +31,24 @@ For people with diabetes, research shows that:
 * Total: 96 million people aged 18 years or older have pre-diabetes (38.0% of the adult US population)
 * 65 years or older: 26.4 million people aged 65 years or older (48.8%) have pre-diabetes
 
+------------------------------
 
+### Terms:
+
+Diagnosed - The proportion of adults age 20+ who report a previous diabetes diagnosis (age-standardized)
+
+Undiagnosed - The proportion of adults age 20+ who do not report a previous diabetes diagnosis who have high FPG/A1C* (age-standardized)
+
+Total - The proportion of adults age 20+ who report a previous diabetes diagnosis and/or have high FPG/A1C* (age-standardized)
+
+Awareness - The proportion of adults age 20+ with a previous diabetes diagnosis and/or high FPG/A1C* who have received a diagnosis (age-standardized)
+
+Control - The proportion of adults age 20+ with a previous diabetes diagnosis and/or high FGP/A1C* who currently do not have high FPG/A1C* (age-standardized)
+	*High FPG/A1C is fasting plasma glucose at least 126 mg/dL and/or A1C at least 6.5%
+
+FPG (Fasting Plasma Glucose)- Measures the levels of glucose (sugar) in the blood.
+
+A1C test — also known as the hemoglobin A1C or HbA1c test — is a simple blood test that measures your average blood sugar levels over the past 3 months.
 
 <h2><u>Resources</u>:</h2>
 
