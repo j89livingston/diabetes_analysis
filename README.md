@@ -31,6 +31,20 @@ For people with diabetes, research shows that:
 * Total: 96 million people aged 18 years or older have pre-diabetes (38.0% of the adult US population)
 * 65 years or older: 26.4 million people aged 65 years or older (48.8%) have pre-diabetes
 
+### Number of deaths for leading causes of death in 2020
+1. Heart disease: 696,962
+2. Cancer: 602,350
+3. COVID-19: 350,831
+4. Accidents (unintentional injuries): 200,955
+5. Stroke (cerebrovascular diseases): 160,264
+6. Chronic lower respiratory diseases: 152,657
+7. Alzheimer’s disease: 134,242
+8. Diabetes: 102,188
+9. Influenza and pneumonia: 53,544
+10. Nephritis, nephrotic syndrome, and nephrosis: 52,547
+
+Source: https://www.cdc.gov/nchs/products/databriefs/db427.htm
+
 ------------------------------
 
 ### Terms:
@@ -51,6 +65,14 @@ FPG (Fasting Plasma Glucose)- Measures the levels of glucose (sugar) in the bloo
 A1C test — also known as the hemoglobin A1C or HbA1c test — is a simple blood test that measures your average blood sugar levels over the past 3 months.
 
 <h2><u>Resources</u>:</h2>
+
+US Population Data:
+
+https://www.census.gov/quickfacts/fact/table/US/PST045221
+
+https://datacommons.org/place/country/USA?utm_medium=explore&mprop=count&popt=Person&hl=en
+
+https://en.wikipedia.org/wiki/2020_United_States_census
 
 Information on diabeties:
 
